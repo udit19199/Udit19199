@@ -26,14 +26,3 @@ How Neovim, tmux, and zsh quietly supercharged my workflow.
 How Aurora evolved from a boring todo app into an AI-powered planning system.
 
 ---
-
-## 🔗 Connect
-
-- Email: **hello@uditagarwal.me**
-- Twitter/X: https://x.com/udit19199
-- LinkedIn: https://www.linkedin.com/in/udit19199/
-- Medium: https://medium.com/@udit-19199
-  
----
-
-© 2026 Udit Agarwal
