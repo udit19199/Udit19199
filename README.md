@@ -17,32 +17,6 @@ I care about correctness, debuggability, and systems that don’t surprise you a
 
 ---
 
-## 🚀 Selected Projects
-
-### **Zoro**
-An autonomous AI coding agent that helps developers scaffold, iterate, and debug projects directly from natural language instructions.  
-**Tech:** AI · LLM
-
----
-
-### **Asteroids** *(WIP)*
-A modern take on the classic arcade shooter, built with Python and Pygame, featuring smooth controls and dynamic asteroid physics.  
-**Tech:** Python · Pygame
-
----
-
-### **Aurora** *(WIP)*
-An AI-driven productivity system that turns tasks into adaptive schedules using automated planning and prioritization.  
-**Tech:** AI · TypeScript
-
----
-
-### **Pokedex** *(WIP)*
-A feature-rich Pokédex built with TypeScript, offering detailed Pokémon stats, visuals, and fast search powered by modern web tooling.  
-**Tech:** TypeScript
-
----
-
 ## ✍️ Writing
 
 **[The Developer Tools That Quietly Made Me Faster (and a Little More Dangerous)](https://uditagarwal.me/blog/the-developer-tools-that-quietly-made-me-faster)**  
