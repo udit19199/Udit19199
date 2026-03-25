@@ -2,7 +2,6 @@
 
 🎓 CSE @ JECRC University · 💻 Backend Developer
 
----
 
 ## 🚀 Tech Stack
 
@@ -10,7 +9,6 @@
 **Backend** — Node.js · Express · Hono · Next.js
 **Data / AI** — PostgreSQL (Prisma) · MongoDB (Mongoose) · RAG
 
----
 
 ## ⚙️ Dev Setup
 
@@ -19,20 +17,16 @@
 **Shell** — zsh (zinit · fzf · zoxide · autosuggestions)
 **Philosophy** — Minimal · Keyboard-first · No context switching
 
----
 
 ## 📌 Currently
 
 Building APIs · Learning system design · Exploring better TypeScript patterns
 
----
 
 ## 🤝 Connect
 
 GitHub: https://github.com/your-username
 LinkedIn: https://linkedin.com/in/your-profile
-
----
 
 
 ## 🚀 Tech Stack
@@ -53,14 +47,12 @@ LinkedIn: https://linkedin.com/in/your-profile
 * PostgreSQL (Prisma ORM)
 * MongoDB (Mongoose)
 
----
 
 ## 🛠️ Development Environment
 
 * 🧠 Neovim (AstroNvim)
 * ⚡ Ghostty
 
----
 
 ## 📌 Currently
 
@@ -68,11 +60,8 @@ LinkedIn: https://linkedin.com/in/your-profile
 * Learning system design
 * Writing better TypeScript
 
----
 
 ## 🤝 Connect
 
 * GitHub: https://github.com/your-username
 * LinkedIn: https://linkedin.com/in/your-profile
-
----
