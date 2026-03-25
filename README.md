@@ -1,12 +1,6 @@
 # 👋 Hi, I'm Udit
 
-🎓 B.Tech CSE Student @ JECRC University
-💻 Aspiring Software Developer
-
----# 👋 Hi, I'm Udit
-
-🎓 B.Tech CSE Student @ JECRC University
-💻 Backend-focused Developer
+🎓 CSE @ JECRC University · 💻 Backend Developer
 
 ---
 
