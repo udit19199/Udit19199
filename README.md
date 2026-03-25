@@ -2,7 +2,7 @@
 
 🎓 CSE @ JECRC University · 💻 Backend Developer
 
-> **Make your life a story worth telling**.
+
 
 
 ## 🚀 Tech Stack
@@ -25,4 +25,4 @@
 Building APIs · Learning system design · Exploring better TypeScript patterns
 
 
-
+> **Make your life a story worth telling**.
