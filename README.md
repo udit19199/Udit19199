@@ -13,9 +13,9 @@
 
 ## ⚙️ Dev Setup
 
-- **Editor** — Neovim (AstroNvim) \
-- **Terminal** — Ghostty · tmux \
-- **Shell** — zsh (zinit · fzf · zoxide · autosuggestions) \
+- **Editor** — Neovim (AstroNvim)
+- **Terminal** — Ghostty · tmux
+- **Shell** — zsh (zinit · fzf · zoxide · autosuggestions)
 - **Philosophy** — Minimal · Keyboard-first · No context switching
 
 
