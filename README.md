@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="coding animation"/>
 
 # 👋 Hi, I’m Udit
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=CSE+%40+JECRC+University;Backend+Developer;RAG+%2F+AI+Engineer;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Developer;RAG+%2F+AI+Engineer;Terminal+Dweller;Building+things+that+matter." alt="Typing SVG" />
 
-🎓 CSE @ JECRC University · 💻 Backend Developer
+💻 Backend Developer · 🤖 AI Engineer
 
 </div>
 
@@ -52,7 +52,7 @@
 ## 📌 Currently
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="working animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400" alt="terminal animation"/>
 </div>
 
 Building APIs · Learning system design · Exploring better TypeScript patterns
